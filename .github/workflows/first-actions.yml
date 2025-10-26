@@ -1,5 +1,6 @@
 # commit to run github actions
 # commit to run github actions
+# commit to run self hosted actions
 name: My First GitHub Actions
 
 on: [push]
